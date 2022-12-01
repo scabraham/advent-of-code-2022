@@ -1,0 +1,9 @@
+# Gradle caches.
+.gradle/
+
+# Build output.
+/build/
+/**/build/
+
+# Ignore everything in the .idea/ directory by default.
+.idea/
